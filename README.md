@@ -1,3 +1,5 @@
+NOTICE: No longer maintained. Superseded by  https://github.com/davidjeddy/yii2-poll
+
 yii2-poll
 =========
 
